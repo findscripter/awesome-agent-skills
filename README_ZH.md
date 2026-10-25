@@ -85,6 +85,7 @@
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — 將獲授權的應用程式原始碼轉換為可執行的 Function、MCP Tool、工作流程 Skill 與離線測試套件，並提供獨立的流程與原始碼審查 Skill。 `Type: Collection` · `Platforms: Codex, Claude Code, Kimi Code`
 - [Community Agent Skills](https://github.com/Cutseven/community-agent-skills) — 引導 Agent 執行收件匣分類、檔案搜尋、會議排程、訂閱追蹤、餐點規劃、備份、任務記錄、翻譯、批次檔案處理與 Cloudflare 基礎架構管理，並在執行不可逆操作前要求確認。 `Type: Collection` · `Platforms: Cross-platform`
 - [CreatorSkills](https://github.com/calebvbi/creator-skills-samples) — 引導 Agent 執行 YouTube 腳本撰寫、縮圖構思、SEO 與受眾輪廓等內容創作者工作流程。 `Type: Collection` · `Platforms: Cross-platform`
+- [Everything Skills](https://github.com/findscripter/everything-skills) — 以固定來源證據與來源稽核，整理 Agent Skills、技能集合、工具及跨 Agent 關係的連結目錄。 `Type: Collection` · `Platforms: Codex, Claude Code, Agent Skills-compatible agents`
 - [Fillfolio portfolio MCP skills](https://github.com/fillfolio/portfolio-mcp-skills) — 引導 Agent 透過已授權的 Fillfolio MCP 連線，執行唯讀投資組合、現金、支出及預算檢視。 `Type: Collection` · `Platforms: Codex`
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) — 以 27 個技能引導 Agent 執行 UI 與字體稽核、程式碼審查、文件撰寫、PR 維護與 npm 發布。 `Type: Collection` · `Platforms: Claude Code, Codex`
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) — 引導 Agent 運用即時行銷資料執行 SEO、GEO、付費廣告與分析工作流程，並在變更前取得核准。 `Type: Collection` · `Platforms: Cross-platform`
@@ -99,6 +100,7 @@
 
 - [Agent QA](https://github.com/vostride/agent-qa) — 透過 CLI、MCP 伺服器與三個以證據為導向的 Agent Skills，執行自然語言網頁與行動應用程式 QA 工作流程。 `Type: CLI + MCP + Collection` · `Platforms: Codex, Agent Skills-compatible agents`
 - [OpenSocrates](https://github.com/ParkerHwang/OpenSocrates) — 以可重複使用的推理程序，引導 Agent 檢查假設、比較選項及評估證據。 `Type: Plugin + Skill` · `Platforms: Claude, Claude Code, Codex, Antigravity`
+- [OpenSpace](https://github.com/HKUDS/OpenSpace) — 為 AI Agent 提供技能檢索、評估、分享與演化的管理層，支援 Claude Code、Codex、OpenClaw、Hermès 與 nanobot。 `Type: CLI + Python API + MCP` · `Platforms: Claude Code, Codex, OpenClaw, Hermès, nanobot`
 - [rhost](https://github.com/starfield17/rhost) — 讓 Agent 在可透過 SSH 連線的 Linux 主機上，以近似本機程序的語義執行一般指令。 `Type: CLI + Plugin + Skill` · `Platforms: Agent Skills-compatible agents`
 - [SandBase](https://github.com/sandbaseai/cli) — 透過本機 CLI 管理的 MCP 橋接器與 Agent Skill，讓 AI Agent 連接統一的模型與工具 API。 `Type: CLI + MCP + Skill` · `Platforms: Cross-platform`
 - [SkillPreflight](https://github.com/agent-contracts/skill-preflight) — 在安裝前檢查第三方 Agent Skills，提供靜態風險發現、Token 估計與品質評分，供 Agent 輔助審閱。 `Type: CLI + Skill` · `Platforms: Cross-platform`
